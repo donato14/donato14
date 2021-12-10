@@ -1,5 +1,5 @@
 
-<h1>Personal Info</h1>
+<h1>▎Personal Info</h1>
 <ul>
   <li>Ku Jun Kang</li>
   <li>SOON CHUN HYANG (SCH)</li>
