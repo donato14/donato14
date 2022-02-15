@@ -38,7 +38,7 @@
     Style
     </th>
     <td>
-    <!-- <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></a> &nbsp -->
+    <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></a> &nbsp
     <img alt="Emotion" src="https://img.shields.io/badge/Emotion-e599f7?style=for-the-badge&logo=Emotion"/></a> &nbsp
     </td>
   </tr>
